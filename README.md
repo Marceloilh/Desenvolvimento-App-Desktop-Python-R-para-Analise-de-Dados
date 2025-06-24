@@ -57,7 +57,7 @@ Batch Script (.bat): Criado como uma solução robusta para contornar os problem
 
 4. Modelo de Linguagem Utilizado
 
- Gemini, um modelo de linguagem grande desenvolvido pelo Google. O modelo de linguagem participou do projeto como um assistente de programação e depuração ativo, realizando as seguintes tarefas:
+ Gemini, um modelo de linguagem grande desenvolvido pelo Google. O modelo de linguagemm participou do projeto como um assistente de programação e depuração ativo, realizando as seguintes tarefas:
 
 Escrita de Código: Geração de scripts completos e trechos de código em Python e R.
 Depuração (Debugging): Análise de uma vasta gama de erros, desde SyntaxError simples até problemas complexos como ModuleNotFoundError, AttributeError, erros de permissão (Acesso Negado), erros de lógica em R (tipos diferentes do ajuste) e falhas de renderização da GUI.
