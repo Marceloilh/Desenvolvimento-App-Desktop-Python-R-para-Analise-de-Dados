@@ -23,5 +23,6 @@ Machine Learning e Modelagem: caret: A principal ferramenta para simplificar o p
 Anaconda / Conda: Utilizado para criar e gerenciar o ambiente virtual (teste), isolando as dependências do projeto. Batch Script (.bat): Criado como uma solução robusta para contornar os problemas de permissão do Windows ao executar o R ​​a partir de um processo Python.
 
 Modelo de Linguagem Utilizado
--Gemini
+-Gemini-
+
 Escrita de Código: Geração de scripts completos e trechos de código em Python e R. Depuração (Debugging): Análise de uma vasta gama de erros, desde SyntaxError simples até problemas complexos como ModuleNotFoundError, AttributeError, erros de permissão (Acesso Negado), erros de lógica em R (tipos diferentes de ajuste) e falhas de renderização da GUI. Refatoração e Arquitetura: Sugestão e implementação de melhorias arquitetônicas, como a mudança de CSV para SQLite, a criação de um fluxo de treino/previsão, o uso de threading na GUI e a implementação do workaround com o script .bat. Explicação de Conceitos: Esclarecimento de detalhes sobre ambientes virtuais, dependências, correção de caracteres e lógica por trás dos erros encontrados.
